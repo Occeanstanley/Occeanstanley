@@ -68,7 +68,27 @@ I enjoy transforming raw data into meaningful insights and deploying solutions t
 ---
 
 ## 🚀 Featured Work
+## 🚀 Featured Work
 
+### 🔹 AI-Powered Chatbot (RAG)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](REPLACE_WITH_GITHUB_REPO_LINK)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)](REPLACE_WITH_LIVE_DEMO_LINK)
+[![Docs](https://img.shields.io/badge/Docs-README-blue)](REPLACE_WITH_README_SECTION_LINK)
+
+### 🔹 AutoML Web App (Classification & Regression)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](REPLACE_WITH_GITHUB_REPO_LINK)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](REPLACE_WITH_LIVE_DEMO_LINK)
+[![Docs](https://img.shields.io/badge/Docs-README-blue)](REPLACE_WITH_README_SECTION_LINK)
+
+### 🔹 Scalable Flight Data Analytics (AWS + Hadoop)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](REPLACE_WITH_GITHUB_REPO_LINK)
+[![Write-up](https://img.shields.io/badge/Write--up-Project%20Notes-0A66C2?logo=readthedocs&logoColor=white)](REPLACE_WITH_WRITEUP_LINK)
+[![Tech](https://img.shields.io/badge/Tech-AWS%20%7C%20Hadoop%20%7C%20Hive-232F3E?logo=amazonaws&logoColor=white)](#)
+
+### 🔹 Predictive Modeling for Healthcare
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](REPLACE_WITH_GITHUB_REPO_LINK)
+[![Report](https://img.shields.io/badge/Report-Results%20%26%20Metrics-4CAF50)](REPLACE_WITH_REPORT_LINK)
+[![Tech](https://img.shields.io/badge/Tech-Python%20%7C%20scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](#)
 🔹 **AI-Powered Chatbot (RAG)**  
 Built a document-aware chatbot using OpenAI + Gradio with retrieval-augmented generation,  
 supporting custom knowledge responses and file exports.
