@@ -108,8 +108,3 @@ as well as discussing analytics, cloud pipelines, and applied ML solutions.
 [![Email](https://img.shields.io/badge/Email-so51517n%40pace.edu-red?logo=gmail&logoColor=white)](mailto:so51517n@pace.edu)
 
 > Building practical machine learning solutions — from data to deployment.
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Occeanstanley&show_icons=true&hide_title=true&hide_rank=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Occeanstanley&layout=compact)
