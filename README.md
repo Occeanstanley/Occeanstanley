@@ -21,12 +21,13 @@ I enjoy transforming raw data into meaningful insights and deploying solutions t
 ---
 
 ## 🛠 Technical Skills
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 **Languages**  
-- Python, SQL, R, JavaScript, HTML/CSS  
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
 
 **Data Science & ML**  
 - Pandas, NumPy, scikit-learn, TensorFlow  
@@ -34,16 +35,28 @@ I enjoy transforming raw data into meaningful insights and deploying solutions t
 - Natural Language Processing (NLP), LLMs  
 
 **Visualization & BI**  
-- Tableau, Power BI, Matplotlib, Seaborn  
+- ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0) 
 
 **Cloud & Platforms**  
-- AWS (EC2, S3, EMR), Google Cloud  
-- Hadoop, Hive  
-- Hugging Face Spaces  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-orange)
+![S3](https://img.shields.io/badge/S3-red)
+![EMR](https://img.shields.io/badge/EMR-yellow)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?logo=apachehive&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
 
 **Tools & Frameworks**  
-- GitHub, Streamlit, Gradio  
-- OpenAI API, Zoho Creator, Glide  
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991)
+![Zoho Creator](https://img.shields.io/badge/Zoho%20Creator-FF0000)
+![Glide](https://img.shields.io/badge/Glide-00C2FF)
 
 ---
 
