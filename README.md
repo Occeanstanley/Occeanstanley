@@ -21,7 +21,10 @@ I enjoy transforming raw data into meaningful insights and deploying solutions t
 ---
 
 ## 🛠 Technical Skills
-
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 **Languages**  
 - Python, SQL, R, JavaScript, HTML/CSS  
 
