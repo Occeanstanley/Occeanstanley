@@ -100,10 +100,11 @@ engineering and model tuning.
 
 ## 🔗 Connect With Me
 
-- 🌐 **Portfolio:** https://occeanstanley.github.io  
-- 💼 **LinkedIn:** https://linkedin.com/in/stanleyoccean  
-- 📧 **Email:** so51517n@pace.edu  
+I’m always open to collaborating on data science, machine learning, and AI projects,
+as well as discussing analytics, cloud pipelines, and applied ML solutions.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-0A66C2?logo=githubpages&logoColor=white)](https://occeanstanley.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stanley%20Occean-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/stanleyoccean)
+[![Email](https://img.shields.io/badge/Email-so51517n%40pace.edu-red?logo=gmail&logoColor=white)](mailto:so51517n@pace.edu)
 
 > _Always learning. Always building. Always improving._
