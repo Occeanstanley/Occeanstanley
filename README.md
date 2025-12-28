@@ -30,16 +30,14 @@ I enjoy transforming raw data into meaningful insights and deploying solutions t
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
 
 **Data Science & ML**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
 ![Regression](https://img.shields.io/badge/Regression-4CAF50)
 ![Classification](https://img.shields.io/badge/Classification-2196F3)
 ![Clustering](https://img.shields.io/badge/Clustering-9C27B0)
-
 ![NLP](https://img.shields.io/badge/NLP-673AB7)
 ![LLMs](https://img.shields.io/badge/LLMs-3F51B5) 
 
