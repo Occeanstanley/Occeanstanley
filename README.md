@@ -41,7 +41,7 @@ I enjoy transforming raw data into meaningful insights and deploying solutions t
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0) 
 
 **Cloud & Platforms**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-orange)
 ![S3](https://img.shields.io/badge/S3-red)
 ![EMR](https://img.shields.io/badge/EMR-yellow)
