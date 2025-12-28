@@ -69,12 +69,12 @@ I enjoy transforming raw data into meaningful insights and deploying solutions t
 
 ## 🚀 Featured Work
 
-### 🔹 AI-Powered Chatbot (RAG)
+🔹 AI-Powered Chatbot (RAG)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/Occeanstanley/AI-powered-data-dashboard-Mini-AutoML/blob/main/app.py)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)](REPLACE_WITH_LIVE_DEMO_LINK)
 [![Docs](https://img.shields.io/badge/Docs-README-blue)](REPLACE_WITH_README_SECTION_LINK)
 
-### 🔹 AutoML Web App (Classification & Regression)
+🔹 AutoML Web App (Classification & Regression)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](REPLACE_WITH_GITHUB_REPO_LINK)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](REPLACE_WITH_LIVE_DEMO_LINK)
 [![Docs](https://img.shields.io/badge/Docs-README-blue)](REPLACE_WITH_README_SECTION_LINK)
@@ -107,4 +107,9 @@ as well as discussing analytics, cloud pipelines, and applied ML solutions.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stanley%20Occean-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/stanleyoccean)
 [![Email](https://img.shields.io/badge/Email-so51517n%40pace.edu-red?logo=gmail&logoColor=white)](mailto:so51517n@pace.edu)
 
-> _Always learning. Always building. Always improving._
+> Building practical machine learning solutions — from data to deployment.
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Occeanstanley&show_icons=true&hide_title=true&hide_rank=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Occeanstanley&layout=compact)
