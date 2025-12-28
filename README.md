@@ -1,8 +1,6 @@
-## 👋 Hi, I’m Stanley Occean
-
-🎓 **M.S. Data Science Candidate** | Machine Learning & AI  
+## 🎓 M.S. Data Science Candidate | Machine Learning & AI
 📍 New York, USA  
-📊 Turning data into insights through predictive modeling, analytics, and AI-powered applications  
+📊 Turning data into insights through predictive modeling, analytics, and AI-powered applications 
 
 ---
 
